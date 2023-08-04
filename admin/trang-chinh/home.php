@@ -1,0 +1,1 @@
+<h2 class="alert alert-secondary">TRANG QUẢN TRỊ</h2>
